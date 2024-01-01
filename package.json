@@ -1,0 +1,27 @@
+{
+  "name": "date-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhathaphonSawettaboot/date-picker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhathaphonSawettaboot/date-picker/issues"
+  },
+  "homepage": "https://github.com/PhathaphonSawettaboot/date-picker#readme",
+  "dependencies": {
+    "date-fns": "^3.0.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
